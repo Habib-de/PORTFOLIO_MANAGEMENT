@@ -164,8 +164,8 @@ const Hero = () => {
               
               {/* Projects Count Badge - NOW VISIBLE */}
               <div className="absolute -bottom-2 -right-2 bg-gradient-to-r from-primary to-secondary rounded-xl p-4 shadow-xl z-20">
-                <div className="text-2xl font-bold text-white">50+</div>
-                <div className="text-xs text-white/80">Projects</div>
+                {/* <div className="text-2xl font-bold text-white">50+</div>
+                <div className="text-xs text-white/80">Projects</div> */}
               </div>
             </div>
           </motion.div>
